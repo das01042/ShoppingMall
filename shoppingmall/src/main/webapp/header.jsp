@@ -8,6 +8,7 @@
 </head>
 <body>
 	<div>
+	<h3>TESTESTESTESTESTEst</h3>
 	<a href="http://localhost/shoppingmall/index.jsp">
 	<img src="C:/DEV/workspace/shoppingmall/src/main/webapp/image/header.png">
 	</a>
